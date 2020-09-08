@@ -33,7 +33,7 @@ h1{
 #clockdiv div > span{
     padding: 15px;
     border-radius: 3px;
-    background: #424ef780;
+    background: #2a2a2b;
     display: block;
 }
 
@@ -63,7 +63,7 @@ h1{
 #clockdiv div > span{
     padding: 15px;
     border-radius: 3px;
-    background: #424ef780;
+   background: #2a2a2b;
     display: inline-block;
 }
 
