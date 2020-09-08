@@ -38,7 +38,7 @@ function getTimeRemaining(endtime) {
     const timeinterval = setInterval(updateClock, 1000);
   }
   
-  const deadline = new Date(Date.parse(new Date()) + 90 * 24 * 60 * 60 * 1000);
+ const deadline = "Wed Nov 25 2020 10:10:20 GMT+0530 (India Standard Time)";
   initializeClock('clockdiv', deadline);
   
   
